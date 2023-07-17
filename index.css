@@ -1,0 +1,15 @@
+.heading {
+    color: rgb(243, 13, 13);
+    background-color: yellow;
+    text-align: center;
+    font-size: 38px;
+}
+
+.first,
+.second,
+.third {
+    color: black;
+    background-color: green;
+    font-size: 30px;
+}
+    
