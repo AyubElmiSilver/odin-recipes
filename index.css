@@ -1,15 +1,27 @@
+* {
+    box-sizing: border-box;
+}
 .heading {
     color: rgb(243, 13, 13);
     background-color: yellow;
     text-align: center;
     font-size: 38px;
+    padding: 50px;
+    border: 20px solid blue;
+    height:200px;
+    width: 900px;
+    margin: 10px auto;
 }
 
 .first,
 .second,
 .third {
+    display: block;
     color: black;
     background-color: green;
     font-size: 30px;
+    border: 10px solid;
+    margin: 10px;
 }
+
     
